@@ -21,7 +21,7 @@ number shown on the counter is positive, it will be highlighted green, the same 
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://aidenm99.github.io/Counter/
 
 ## My process
 
